@@ -76,7 +76,7 @@ class _HideApiKeyState extends State<HideApiKey> {
                   SizedBox(
                     height: 50.0,
                   ),
-                  Text('Hide API key on server'),
+                  Text('Hide API Key on Git'),
                   SizedBox(
                     height: 50.0,
                   ),
