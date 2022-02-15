@@ -89,7 +89,7 @@ class _HideApiKeyState extends State<HideApiKey> {
                   SizedBox(
                     height: 50.0,
                   ),
-                  Text('Data from Http ${data}')
+                  Text('Data from Server ${data}')
                 ])),
               )
             : Center(
